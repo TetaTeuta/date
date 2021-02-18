@@ -212,7 +212,7 @@ function App() {
         {finalQuestionFast && (
           <>
             <h6 className="question">
-              What do you think about going to museum this week?
+              What do you think about going to museum next week?
             </h6>
             <Button
               variant="warning"
